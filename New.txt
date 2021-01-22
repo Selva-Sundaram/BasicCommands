@@ -1,1 +1,3 @@
-We are learning basic git commands
+We are learning basic git commands.
+Good morning all and have a nice day
+satheesh kumar is a worst fellow
